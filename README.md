@@ -1,4 +1,4 @@
-# Workshop: Person Classification in Sports
+# Workshop 2018: Person Classification in Sports
 ![Team-clusterization](slides/tracking_2.jpg)
 
 This workshop aims to show:
